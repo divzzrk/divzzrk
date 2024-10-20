@@ -12,7 +12,7 @@ I'm Divya Raj K, a passionate software engineer with a knack for making tech fun
 ### Skills & Tools 🛠️
   <p align="center">
   <img src="https://skillicons.dev/icons?i=golang,python,java,kotlin" />
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,mysql,postgres,redis" />
   </p>
 
 ---

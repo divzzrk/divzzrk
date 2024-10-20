@@ -8,6 +8,9 @@ I'm Divya Raj K, a passionate software engineer with a knack for making tech fun
 
 ---
 
+### Quote of the Day 📜
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 Feel free to check out my repositories or [connect with me](mailto:divyavrk22@gmail.com) if you'd like to collaborate on a fun project!
 
 Let's build something awesome! 🚀
